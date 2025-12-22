@@ -6,6 +6,8 @@ tags: cat-purr
 ---
 ![A cat purring](cat-purr.jpg)
 
+**Image source:** Photo by [Free Pik] (https://www.freepik.com/free-ai-image/pixel-art-style-scene-with-adorable-pet-cat_186697785.htm#fromView=search&page=1&position=2&uuid=39c438ba-18c2-4c67-8f71-9e11ad115562&query=cat+pixel">Image by freepik)
+
 ## Cats purr when they're happy
 
 The most common reason cats purr is because they feel relaxed and content. Many cats purr when they are being petted, cuddling with their owner, or resting in a comfortable spot. In these moments, purring is a way for cats to express comfort and trust.
