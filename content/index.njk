@@ -6,9 +6,14 @@ const eleventyNavigation = {
 
 const numberOfLatestPostsToShow = 3;
 ---
+<section class="hero">
+	<h1>Welcome to The Curious Cat</h1>
+	<p>Exploring the fascinating world of feline behavior and care</p>
+</section>
+
 {% set postsCount = collections.posts | length %}
 {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
-<h1>Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %}</h1>
+<h2>Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %}</h2>
 
 {% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
 {% set postslistCounter = postsCount %}
