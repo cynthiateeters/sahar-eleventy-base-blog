@@ -1,6 +1,6 @@
 ---
-title: 10 weird things cats do (Explained)
-description: Cats are funny, confusing, and sometimes downright strange. One minute they’re cuddling, and the next they’re knocking things off a table for no obvious reason. While these behaviors may seem weird to us, there’s usually a reason behind them. Here are ten common “weird” things cats do—and what they actually mean.
+title: "10 weird things cats do (Explained)"
+description: "Cats are funny, confusing, and sometimes downright strange. One minute they’re cuddling, and the next they’re knocking things off a table for no obvious reason. While these behaviors may seem weird to us, there’s usually a reason behind them. Here are ten common “weird” things cats do—and what they actually mean."
 date: 2025-12-22
 tags: weird-cats
 ---

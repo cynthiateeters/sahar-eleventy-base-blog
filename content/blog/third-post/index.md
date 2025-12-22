@@ -1,6 +1,6 @@
 ---
-title: How to Tell If Your Cat Is Happy :)
-description: Cats can’t tell us how they’re feeling with words, but they communicate a lot through their behavior and body language. Understanding the signs of a happy cat can help you know when your pet feels comfortable, safe, and content. Here are some common ways cats show happiness.
+title: "How to Tell If Your Cat Is Happy :)"
+description: "Cats can’t tell us how they’re feeling with words, but they communicate a lot through their behavior and body language. Understanding the signs of a happy cat can help you know when your pet feels comfortable, safe, and content. Here are some common ways cats show happiness."
 date: 2025-12-22
 tags: happy-cats
 ---
