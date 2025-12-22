@@ -51,6 +51,6 @@ While cats may seem strange at times, their behaviors usually have simple explan
 
 At The Curious Cat, even the weirdest habits have a reason.
 
-![Cat sitting and staring out of window](cat-looking-outside.jpg)
+![Cat sitting and staring out of window](/img/cat-looking-outside.jpg)
 
 **Image source:** Photo by [Free Pik] (https://www.freepik.com/free-ai-image/pixel-art-style-scene-with-adorable-pet-cat_186697766.htm#fromView=search&page=1&position=40&uuid=39c438ba-18c2-4c67-8f71-9e11ad115562&query=cat+pixel)

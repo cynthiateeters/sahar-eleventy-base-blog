@@ -4,9 +4,9 @@ description: If you’ve ever sat next to a cat and heard that soft, rumbling so
 date: 2025-12-22
 tags: cat-purr
 ---
-![A cat purring](cat-purr.jpg)
+![A cat purring](/img/cat-purr.jpg)
 
-**Image source:** Photo by [Free Pik] (https://www.freepik.com/free-ai-image/pixel-art-style-scene-with-adorable-pet-cat_186697785.htm#fromView=search&page=1&position=2&uuid=39c438ba-18c2-4c67-8f71-9e11ad115562&query=cat+pixel">Image by freepik)
+**Image source:** Photo by [Free Pik] (https://www.freepik.com/free-ai-image/pixel-art-style-scene-with-adorable-pet-cat_186697785.htm#fromView=search&page=1&position=2&uuid=39c438ba-18c2-4c67-8f71-9e11ad115562&query=cat+pixel)
 
 ## Cats purr when they're happy
 
