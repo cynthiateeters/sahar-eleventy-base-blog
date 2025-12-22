@@ -337,3 +337,67 @@ header {
 	margin-right: 1em;
 }
 
+/* Mobile Responsiveness */
+@media (max-width: 768px) {
+	body {
+		max-width: 100%;
+	}
+
+	main, footer {
+		padding: 1rem;
+	}
+
+	header {
+		flex-direction: column;
+		gap: 1rem;
+	}
+
+	.nav {
+		flex-wrap: wrap;
+		gap: 0.5em 1em;
+	}
+
+	.home-link {
+		flex-grow: 1;
+	}
+}
+
+@media (max-width: 480px) {
+	main, footer {
+		padding: 0.75rem;
+	}
+
+	.hero {
+		padding: 2rem 1rem;
+		border-radius: 6px;
+	}
+
+	.hero h1 {
+		font-size: 1.8rem;
+	}
+
+	.hero p {
+		font-size: 1rem;
+	}
+
+	header {
+		padding: 0.75rem;
+	}
+
+	.postlist {
+		padding-left: 1rem;
+	}
+
+	.postlist-link {
+		font-size: 1rem;
+	}
+
+	table {
+		font-size: 0.9rem;
+	}
+
+	pre, code {
+		font-size: 0.85rem;
+	}
+}
+
