@@ -1,10 +1,11 @@
 ---
 title: Why cats purr?
-description: If you’ve ever sat next to a cat and heard that soft, rumbling sound, you’ve experienced a cat’s purr. Purring is one of the most well-known cat behaviors, but many people don’t realize that it can mean more than just happiness. So, why do cats purr? The answer is a little more interesting than you might think.
+description: If you've ever sat next to a cat and heard that soft, rumbling sound, you've experienced a cat's purr. Purring is one of the most well-known cat behaviors, but many people don't realize that it can mean more than just happiness. So, why do cats purr? The answer is a little more interesting than you might think.
 date: 2025-12-22
 tags: cat-purr
 ---
-![A cat purring](/img/cat-purr.jpg)
+
+<img src="/img/cat-purr.jpg" alt="A cat purring">
 
 **Image source:** Photo by [Free Pik] (https://www.freepik.com/free-ai-image/pixel-art-style-scene-with-adorable-pet-cat_186697785.htm#fromView=search&page=1&position=2&uuid=39c438ba-18c2-4c67-8f71-9e11ad115562&query=cat+pixel)
 
