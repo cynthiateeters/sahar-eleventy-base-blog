@@ -35,6 +35,6 @@ Cats are full of surprises, and understanding the truth about them helps you tak
 
 At The Curious Cat, curiosity leads to understanding and understanding leads to a happier cat.
 
-<img src="/img/cats.jpg" alt="Cats in the kitchen">
+<img src="./cats.jpg" alt="Cats in the kitchen">
 
-**Image source:** Photo by [Free Pik] (https://www.freepik.com/free-ai-image/pixel-art-style-scene-with-adorable-pet-cat_186697781.htm#fromView=serie&page=1&position=15)
+**Image source:** Photo by [Free Pik](https://www.freepik.com/free-ai-image/pixel-art-style-scene-with-adorable-pet-cat_186697781.htm#fromView=serie&page=1&position=15)

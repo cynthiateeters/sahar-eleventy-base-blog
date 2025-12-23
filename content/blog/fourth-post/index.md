@@ -48,6 +48,6 @@ Both indoor and outdoor lifestyles have pros and cons, and the best choice depen
 
 At The Curious Cat, every cat deserves a happy, curious, and safe life—whether indoors or exploring the great outdoors.
 
-<img src="/img/outdoor-cat.jpg" alt="Cat walking outside">
+<img src="./outdoor-cat.jpg" alt="Cat walking outside">
 
-**Image source:** Photo by [Free Pik] (https://www.freepik.com/free-ai-image/pixel-art-style-scene-with-adorable-pet-cat_186697749.htm#fromView=search&page=1&position=2&uuid=677e3bd4-2cbb-4ddc-957b-a7d444ce83d6&query=running+cat+pixel)
+**Image source:** Photo by [Free Pik](https://www.freepik.com/free-ai-image/pixel-art-style-scene-with-adorable-pet-cat_186697749.htm#fromView=search&page=1&position=2&uuid=677e3bd4-2cbb-4ddc-957b-a7d444ce83d6&query=running+cat+pixel)

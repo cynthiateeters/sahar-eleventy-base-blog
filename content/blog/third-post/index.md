@@ -5,9 +5,9 @@ date: 2025-12-22
 tags: happy-cats
 ---
 
-<img src="/img/happy-cat.jpg" alt="Happy cat in meadow">
+<img src="./happy-cat.jpg" alt="Happy cat in meadow">
 
-**Image source:** Photo by [Free Pik] (https://www.freepik.com/free-ai-image/pixel-art-style-scene-with-adorable-pet-cat_186697746.htm#fromView=search&page=1&position=35&uuid=39c438ba-18c2-4c67-8f71-9e11ad115562&query=cat+pixel)
+**Image source:** Photo by [Free Pik](https://www.freepik.com/free-ai-image/pixel-art-style-scene-with-adorable-pet-cat_186697746.htm#fromView=search&page=1&position=35&uuid=39c438ba-18c2-4c67-8f71-9e11ad115562&query=cat+pixel)
 
 
 ## Relaxed Body Language
